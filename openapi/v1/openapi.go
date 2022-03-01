@@ -10,11 +10,11 @@ import (
 	"time"
 
 	"github.com/go-resty/resty/v2" // resty 是一个优秀的 rest api 客户端，可以极大的减少开发基于 rest 标准接口求请求的封装工作量
-	"github.com/tencent-connect/botgo/errs"
-	"github.com/tencent-connect/botgo/log"
-	"github.com/tencent-connect/botgo/openapi"
-	"github.com/tencent-connect/botgo/token"
-	"github.com/tencent-connect/botgo/version"
+	"github.com/proudwang/botgo/errs"
+	"github.com/proudwang/botgo/log"
+	"github.com/proudwang/botgo/openapi"
+	"github.com/proudwang/botgo/token"
+	"github.com/proudwang/botgo/version"
 )
 
 // MaxIdleConns 默认指定空闲连接池大小

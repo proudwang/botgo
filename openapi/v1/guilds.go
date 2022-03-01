@@ -3,7 +3,7 @@ package v1
 import (
 	"context"
 
-	"github.com/tencent-connect/botgo/dto"
+	"github.com/proudwang/botgo/dto"
 )
 
 // Guild 拉取频道信息

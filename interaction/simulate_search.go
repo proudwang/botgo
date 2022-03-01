@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/log"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/log"
 )
 
 const maxRespBuffer = 65535

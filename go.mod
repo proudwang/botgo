@@ -1,4 +1,4 @@
-module github.com/tencent-connect/botgo
+module github.com/proudwang/botgo
 
 go 1.16
 

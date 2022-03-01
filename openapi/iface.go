@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/token"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/token"
 )
 
 // OpenAPI openapi 完整实现

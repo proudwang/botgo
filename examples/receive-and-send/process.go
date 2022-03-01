@@ -6,9 +6,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/dto/message"
-	"github.com/tencent-connect/botgo/openapi"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/dto/message"
+	"github.com/proudwang/botgo/openapi"
 )
 
 type Processor struct {

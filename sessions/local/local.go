@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/log"
-	"github.com/tencent-connect/botgo/sessions/manager"
-	"github.com/tencent-connect/botgo/token"
-	"github.com/tencent-connect/botgo/websocket"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/log"
+	"github.com/proudwang/botgo/sessions/manager"
+	"github.com/proudwang/botgo/token"
+	"github.com/proudwang/botgo/websocket"
 )
 
 // New 创建本地session管理器

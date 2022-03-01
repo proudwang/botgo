@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tencent-connect/botgo/log"
+	"github.com/proudwang/botgo/log"
 )
 
 const (

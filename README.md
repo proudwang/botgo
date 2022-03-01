@@ -2,9 +2,9 @@
 
 QQ频道机器人，官方 GOLANG SDK。
 
-![Build](https://github.com/tencent-connect/botgo/actions/workflows/build.yml/badge.svg)
-[![Go Reference](https://pkg.go.dev/badge/github.com/tencent-connect/botgo.svg)](https://pkg.go.dev/github.com/tencent-connect/botgo)
-[![Examples](https://img.shields.io/badge/BotGo-examples-yellowgreen)](https://github.com/tencent-connect/botgo/tree/master/examples)
+![Build](https://github.com/proudwang/botgo/actions/workflows/build.yml/badge.svg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/proudwang/botgo.svg)](https://pkg.go.dev/github.com/proudwang/botgo)
+[![Examples](https://img.shields.io/badge/BotGo-examples-yellowgreen)](https://github.com/proudwang/botgo/tree/master/examples)
 
 
 ## 一、如何使用
@@ -57,7 +57,7 @@ sdk 中实现了两个 SessionManager
 - [local](./sessions/local/local.go) 用于在单机上启动多个 shard 的连接。下文用 `local` 代表
 - [remote](./sessions/remote/remote.go) 基于 redis 的 list 数据结构，实现分布式的 shard 管理，可以在多个节点上启动多个服务进程。下文用 `remote` 代表
 
-另外，也有其他同事基于 etcd 实现了 shard 集群的管理，在 [botgo-plugns](https://github.com/tencent-connect/botgo-plugins) 中。
+另外，也有其他同事基于 etcd 实现了 shard 集群的管理，在 [botgo-plugns](https://github.com/proudwang/botgo-plugins) 中。
 
 ## 三、生产环境中的一些建议
 

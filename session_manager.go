@@ -1,9 +1,9 @@
 package botgo
 
 import (
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/sessions/local"
-	"github.com/tencent-connect/botgo/token"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/sessions/local"
+	"github.com/proudwang/botgo/token"
 )
 
 // defaultSessionManager 默认实现的 session manager 为单机版本

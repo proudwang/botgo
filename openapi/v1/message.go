@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/errs"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/errs"
 )
 
 // Message 拉取单条消息

@@ -10,11 +10,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/tencent-connect/botgo"
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/dto/message"
-	"github.com/tencent-connect/botgo/token"
-	"github.com/tencent-connect/botgo/websocket"
+	"github.com/proudwang/botgo"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/dto/message"
+	"github.com/proudwang/botgo/token"
+	"github.com/proudwang/botgo/websocket"
 )
 
 // 消息处理器，持有 openapi 对象

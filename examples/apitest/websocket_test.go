@@ -4,9 +4,9 @@ import (
 	"log"
 	"testing"
 
-	"github.com/tencent-connect/botgo"
-	"github.com/tencent-connect/botgo/dto"
-	"github.com/tencent-connect/botgo/websocket"
+	"github.com/proudwang/botgo"
+	"github.com/proudwang/botgo/dto"
+	"github.com/proudwang/botgo/websocket"
 )
 
 func Test_websocket(t *testing.T) {

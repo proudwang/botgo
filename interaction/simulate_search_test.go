@@ -3,7 +3,7 @@ package interaction
 import (
 	"testing"
 
-	"github.com/tencent-connect/botgo/log"
+	"github.com/proudwang/botgo/log"
 )
 
 func TestSimulateSearch(t *testing.T) {

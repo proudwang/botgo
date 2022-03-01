@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tencent-connect/botgo/dto"
+	"github.com/proudwang/botgo/dto"
 )
 
 // ChannelPermissions 获取指定子频道的权限

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tencent-connect/botgo/dto"
+	"github.com/proudwang/botgo/dto"
 )
 
 func TestAnnounces(t *testing.T) {

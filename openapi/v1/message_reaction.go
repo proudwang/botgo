@@ -4,7 +4,7 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/tencent-connect/botgo/dto"
+	"github.com/proudwang/botgo/dto"
 )
 
 // CreateMessageReaction 对消息发表表情表态

@@ -1,9 +1,9 @@
 package botgo
 
 import (
-	"github.com/tencent-connect/botgo/log"
-	"github.com/tencent-connect/botgo/openapi"
-	"github.com/tencent-connect/botgo/websocket"
+	"github.com/proudwang/botgo/log"
+	"github.com/proudwang/botgo/openapi"
+	"github.com/proudwang/botgo/websocket"
 )
 
 // SetLogger 设置 logger，需要实现 sdk 的 log.Logger 接口
